@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(yellow, green);
+}
+.btn-warning{
+    background-image: linear-gradient(orange, yellow);
+}
+.btn-info{
+    background-image: linear-gradient(orange, yellow);
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 12px;
+}
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background: grey;
+    line-height: 3;
+    text-align: center;
+    background-image: linear-gradient(orange, yellow);
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
